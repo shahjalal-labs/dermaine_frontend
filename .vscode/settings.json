@@ -1,0 +1,46 @@
+{
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "files.autoSave": "afterDelay",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+    // "source.fixAll": "always",
+    // "source.fixAll.eslint": "always",
+    // "source.removeUnused.ts": "always",
+    // "source.sortMembers": "always"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.stickyScroll.enabled": false,
+  "tabnine.experimentalAutoImports": true,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.fontFamily": "Fira Code",
+  "redhat.telemetry.enabled": true,
+  "editor.fontSize": 16,
+  "chat.viewSessions.orientation": "stacked"
+}

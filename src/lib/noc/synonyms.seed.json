@@ -1,0 +1,692 @@
+[
+  {
+    "searchTerm": "department manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "walmart department manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "wal mart department manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "omni department manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "department store manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "store manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "restaurant supervisor",
+    "nocCode": "62020",
+    "occupationTitle": "Food service supervisors",
+    "priority": 100
+  },
+  {
+    "searchTerm": "software developer",
+    "nocCode": "21232",
+    "occupationTitle": "Software developers and programmers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "amazon picker",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "fulfillment associate",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 100
+  },
+  {
+    "searchTerm": "uber driver",
+    "nocCode": "75200",
+    "occupationTitle": "Taxi and limousine drivers and chauffeurs",
+    "priority": 100
+  },
+  {
+    "searchTerm": "lyft driver",
+    "nocCode": "75200",
+    "occupationTitle": "Taxi and limousine drivers and chauffeurs",
+    "priority": 90
+  },
+  {
+    "searchTerm": "rideshare driver",
+    "nocCode": "75200",
+    "occupationTitle": "Taxi and limousine drivers and chauffeurs",
+    "priority": 90
+  },
+  {
+    "searchTerm": "ride share driver",
+    "nocCode": "75200",
+    "occupationTitle": "Taxi and limousine drivers and chauffeurs",
+    "priority": 90
+  },
+  {
+    "searchTerm": "uber eats driver",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "doordash driver",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "skip the dishes driver",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "instacart shopper",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "amazon delivery driver",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "amazon flex driver",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "courier driver",
+    "nocCode": "75201",
+    "occupationTitle": "Delivery service drivers and door-to-door distributors",
+    "priority": 80
+  },
+  {
+    "searchTerm": "amazon warehouse associate",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "warehouse associate",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "warehouse worker",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "warehouse labourer",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "fulfillment centre associate",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "picker packer",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "forklift driver",
+    "nocCode": "75101",
+    "occupationTitle": "Material handlers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "order picker",
+    "nocCode": "65102",
+    "occupationTitle": "Store shelf stockers, clerks and order fillers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "stock clerk",
+    "nocCode": "65102",
+    "occupationTitle": "Store shelf stockers, clerks and order fillers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "shelf stocker",
+    "nocCode": "65102",
+    "occupationTitle": "Store shelf stockers, clerks and order fillers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "store clerk",
+    "nocCode": "65102",
+    "occupationTitle": "Store shelf stockers, clerks and order fillers",
+    "priority": 80
+  },
+  {
+    "searchTerm": "shipper receiver",
+    "nocCode": "14400",
+    "occupationTitle": "Shippers and receivers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "sales associate",
+    "nocCode": "64100",
+    "occupationTitle": "Retail salespersons and visual merchandisers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "retail sales associate",
+    "nocCode": "64100",
+    "occupationTitle": "Retail salespersons and visual merchandisers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "walmart sales associate",
+    "nocCode": "64100",
+    "occupationTitle": "Retail salespersons and visual merchandisers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "retail associate",
+    "nocCode": "64100",
+    "occupationTitle": "Retail salespersons and visual merchandisers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "walmart cashier",
+    "nocCode": "65100",
+    "occupationTitle": "Cashiers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "grocery store cashier",
+    "nocCode": "65100",
+    "occupationTitle": "Cashiers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "retail supervisor",
+    "nocCode": "62010",
+    "occupationTitle": "Retail sales supervisors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "retail store manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "assistant store manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "grocery store manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "supermarket manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "convenience store manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "shop manager",
+    "nocCode": "60020",
+    "occupationTitle": "Retail and wholesale trade managers",
+    "priority": 80
+  },
+  {
+    "searchTerm": "tim hortons team member",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "tim hortons crew member",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "mcdonalds crew member",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "crew member",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 40
+  },
+  {
+    "searchTerm": "fast food worker",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "fast food attendant",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "sandwich artist",
+    "nocCode": "65201",
+    "occupationTitle": "Food counter attendants, kitchen helpers and related support occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "restaurant server",
+    "nocCode": "65200",
+    "occupationTitle": "Food and beverage servers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "server",
+    "nocCode": "65200",
+    "occupationTitle": "Food and beverage servers",
+    "priority": 40
+  },
+  {
+    "searchTerm": "kitchen supervisor",
+    "nocCode": "62020",
+    "occupationTitle": "Food service supervisors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "food service supervisor",
+    "nocCode": "62020",
+    "occupationTitle": "Food service supervisors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "shift supervisor restaurant",
+    "nocCode": "62020",
+    "occupationTitle": "Food service supervisors",
+    "priority": 90
+  },
+  {
+    "searchTerm": "prep cook",
+    "nocCode": "63200",
+    "occupationTitle": "Cooks",
+    "priority": 90
+  },
+  {
+    "searchTerm": "head cook",
+    "nocCode": "63200",
+    "occupationTitle": "Cooks",
+    "priority": 90
+  },
+  {
+    "searchTerm": "assistant restaurant manager",
+    "nocCode": "60030",
+    "occupationTitle": "Restaurant and food service managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "psw",
+    "nocCode": "44101",
+    "occupationTitle": "Home support workers, caregivers and related occupations",
+    "priority": 100
+  },
+  {
+    "searchTerm": "psw",
+    "nocCode": "33102",
+    "occupationTitle": "Nurse aides, orderlies and patient service associates",
+    "priority": 95
+  },
+  {
+    "searchTerm": "p s w",
+    "nocCode": "44101",
+    "occupationTitle": "Home support workers, caregivers and related occupations",
+    "priority": 100
+  },
+  {
+    "searchTerm": "p s w",
+    "nocCode": "33102",
+    "occupationTitle": "Nurse aides, orderlies and patient service associates",
+    "priority": 95
+  },
+  {
+    "searchTerm": "home care worker",
+    "nocCode": "44101",
+    "occupationTitle": "Home support workers, caregivers and related occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "live in caregiver",
+    "nocCode": "44101",
+    "occupationTitle": "Home support workers, caregivers and related occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "rpn",
+    "nocCode": "32101",
+    "occupationTitle": "Licensed practical nurses",
+    "priority": 90
+  },
+  {
+    "searchTerm": "lpn",
+    "nocCode": "32101",
+    "occupationTitle": "Licensed practical nurses",
+    "priority": 90
+  },
+  {
+    "searchTerm": "rn",
+    "nocCode": "31301",
+    "occupationTitle": "Registered nurses and registered psychiatric nurses",
+    "priority": 90
+  },
+  {
+    "searchTerm": "doctor",
+    "nocCode": "31102",
+    "occupationTitle": "General practitioners and family physicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "medical doctor",
+    "nocCode": "31102",
+    "occupationTitle": "General practitioners and family physicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "family doctor",
+    "nocCode": "31102",
+    "occupationTitle": "General practitioners and family physicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "physician",
+    "nocCode": "31102",
+    "occupationTitle": "General practitioners and family physicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "gp",
+    "nocCode": "31102",
+    "occupationTitle": "General practitioners and family physicians",
+    "priority": 80
+  },
+  {
+    "searchTerm": "pharmacy assistant",
+    "nocCode": "33103",
+    "occupationTitle": "Pharmacy technical assistants and pharmacy assistants",
+    "priority": 90
+  },
+  {
+    "searchTerm": "lab technician",
+    "nocCode": "32120",
+    "occupationTitle": "Medical laboratory technologists",
+    "priority": 90
+  },
+  {
+    "searchTerm": "medical lab technician",
+    "nocCode": "32120",
+    "occupationTitle": "Medical laboratory technologists",
+    "priority": 90
+  },
+  {
+    "searchTerm": "lab assistant",
+    "nocCode": "33101",
+    "occupationTitle": "Medical laboratory assistants and related technical occupations",
+    "priority": 90
+  },
+  {
+    "searchTerm": "ece",
+    "nocCode": "42202",
+    "occupationTitle": "Early childhood educators and assistants",
+    "priority": 90
+  },
+  {
+    "searchTerm": "daycare worker",
+    "nocCode": "42202",
+    "occupationTitle": "Early childhood educators and assistants",
+    "priority": 90
+  },
+  {
+    "searchTerm": "daycare teacher",
+    "nocCode": "42202",
+    "occupationTitle": "Early childhood educators and assistants",
+    "priority": 90
+  },
+  {
+    "searchTerm": "hr manager",
+    "nocCode": "10011",
+    "occupationTitle": "Human resources managers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "hr generalist",
+    "nocCode": "11200",
+    "occupationTitle": "Human resources professionals",
+    "priority": 90
+  },
+  {
+    "searchTerm": "hr coordinator",
+    "nocCode": "12101",
+    "occupationTitle": "Human resources and recruitment officers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "hr assistant",
+    "nocCode": "12101",
+    "occupationTitle": "Human resources and recruitment officers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "admin assistant",
+    "nocCode": "13110",
+    "occupationTitle": "Administrative assistants",
+    "priority": 90
+  },
+  {
+    "searchTerm": "administrative clerk",
+    "nocCode": "14100",
+    "occupationTitle": "General office support workers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "data entry operator",
+    "nocCode": "14111",
+    "occupationTitle": "Data entry clerks",
+    "priority": 90
+  },
+  {
+    "searchTerm": "accounts receivable clerk",
+    "nocCode": "14200",
+    "occupationTitle": "Accounting and related clerks",
+    "priority": 90
+  },
+  {
+    "searchTerm": "cpa",
+    "nocCode": "11100",
+    "occupationTitle": "Financial auditors and accountants",
+    "priority": 90
+  },
+  {
+    "searchTerm": "payroll clerk",
+    "nocCode": "13102",
+    "occupationTitle": "Payroll administrators",
+    "priority": 90
+  },
+  {
+    "searchTerm": "customer service rep",
+    "nocCode": "64409",
+    "occupationTitle": "Other customer and information services representatives",
+    "priority": 90
+  },
+  {
+    "searchTerm": "customer service agent",
+    "nocCode": "64409",
+    "occupationTitle": "Other customer and information services representatives",
+    "priority": 90
+  },
+  {
+    "searchTerm": "csr",
+    "nocCode": "64409",
+    "occupationTitle": "Other customer and information services representatives",
+    "priority": 80
+  },
+  {
+    "searchTerm": "call centre agent",
+    "nocCode": "64409",
+    "occupationTitle": "Other customer and information services representatives",
+    "priority": 90
+  },
+  {
+    "searchTerm": "call centre representative",
+    "nocCode": "64409",
+    "occupationTitle": "Other customer and information services representatives",
+    "priority": 90
+  },
+  {
+    "searchTerm": "it support",
+    "nocCode": "22221",
+    "occupationTitle": "User support technicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "it support technician",
+    "nocCode": "22221",
+    "occupationTitle": "User support technicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "it technician",
+    "nocCode": "22221",
+    "occupationTitle": "User support technicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "desktop support",
+    "nocCode": "22221",
+    "occupationTitle": "User support technicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "it analyst",
+    "nocCode": "21222",
+    "occupationTitle": "Information systems specialists",
+    "priority": 90
+  },
+  {
+    "searchTerm": "it specialist",
+    "nocCode": "21222",
+    "occupationTitle": "Information systems specialists",
+    "priority": 90
+  },
+  {
+    "searchTerm": "full stack developer",
+    "nocCode": "21232",
+    "occupationTitle": "Software developers and programmers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "back end developer",
+    "nocCode": "21232",
+    "occupationTitle": "Software developers and programmers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "front end developer",
+    "nocCode": "21234",
+    "occupationTitle": "Web developers and programmers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "qa tester",
+    "nocCode": "22222",
+    "occupationTitle": "Information systems testing technicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "software tester",
+    "nocCode": "22222",
+    "occupationTitle": "Information systems testing technicians",
+    "priority": 90
+  },
+  {
+    "searchTerm": "owner operator",
+    "nocCode": "73300",
+    "occupationTitle": "Transport truck drivers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "truck driver owner operator",
+    "nocCode": "73300",
+    "occupationTitle": "Transport truck drivers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "long haul truck driver",
+    "nocCode": "73300",
+    "occupationTitle": "Transport truck drivers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "school bus driver",
+    "nocCode": "73301",
+    "occupationTitle": "Bus drivers, subway operators and other transit operators",
+    "priority": 90
+  },
+  {
+    "searchTerm": "construction helper",
+    "nocCode": "75110",
+    "occupationTitle": "Construction trades helpers and labourers",
+    "priority": 90
+  },
+  {
+    "searchTerm": "general labourer",
+    "nocCode": "75110",
+    "occupationTitle": "Construction trades helpers and labourers",
+    "priority": 40
+  },
+  {
+    "searchTerm": "hairdresser",
+    "nocCode": "63210",
+    "occupationTitle": "Hairstylists and barbers",
+    "priority": 90
+  }
+]
